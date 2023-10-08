@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCustomView</string>
+    <string name="button">SUBMIT</string>
+    <string name="edit_text">Masukkan nama Anda</string>
+</resources>
